@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/myDay"
+        android:title="My day"
+        android:icon="@drawable/ic_baseline_wb_sunny_24"/>
+
+    <item
+        android:id="@+id/projects"
+        android:title="Projects"
+        android:icon="@drawable/ic_baseline_list_alt_24"/>
+
+    <item
+        android:id="@+id/dummy"
+        android:title=""
+        android:icon="@drawable/transparent_background"/>
+
+    <item
+        android:id="@+id/friends"
+        android:title="Friends"
+        android:icon="@drawable/ic_baseline_emoji_people_24"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="Profile"
+        android:icon="@drawable/baseline_face_24"/>
+
+</menu>

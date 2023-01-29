@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086270625693",
+    "firebase_url": "https://tracktask-34ec0-default-rtdb.firebaseio.com",
+    "project_id": "tracktask-34ec0",
+    "storage_bucket": "tracktask-34ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086270625693:android:c6007b363b5dbb1aa20174",
+        "android_client_info": {
+          "package_name": "com.shivtechs.tracktask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086270625693-r8akal5ua3vm7vsoid8e8r8hqpbqk49r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9OgwnW3VArTLrn8GiIJ3O_Z3heYjRDes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086270625693-r8akal5ua3vm7vsoid8e8r8hqpbqk49r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

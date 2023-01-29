@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".FocusActivity">
+
+    <TextView
+        android:id="@+id/time_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/orbitron_bold"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:layout_marginBottom="15dp"
+        android:textColor="#C4FFFFFF"
+        android:textSize="66sp" />
+
+    <TextView
+        android:id="@+id/startBtn"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:onClick="onClickStart"
+        android:text="START"
+        android:textStyle="bold"
+        android:textColor="#C4FFFFFF"
+        android:fontFamily="@font/orbitron_bold"
+        android:textSize="34sp"
+        android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="164dp"
+        android:layout_alignParentBottom="true"
+        />
+
+</RelativeLayout>
